@@ -11,7 +11,7 @@ You are performing a threat model of the application using the PASTA framework. 
 Buyers should be able to directly message sellers with questions. They should also have the ability to rate sellers to encourage good service. Sales should be clear and quick to process. Users should have several payment options for a smooth checkout process. Proper payment handling is really important because we want to avoid legal issues."
 
 ---
-[click to view PASTA worksheet](./docs/PASTA-worksheet.docx)
+[click to view PASTA worksheet](./docs/PASTA-worksheet.pdf)
 
 ---
 ### **Review of each stage of this PASTA threat modelling exercise:**
